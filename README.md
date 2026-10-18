@@ -2,7 +2,7 @@
 
 Blog interactivo con las reflexiones y aprendizajes de nuestro equipo como futuros profesionales de la educación. Es un proyecto de clases hecho en una sola página web (HTML, CSS y JavaScript), sin dependencias ni instalación.
 
-🔗 **Ver el blog:** _(pega aquí el enlace de GitHub Pages cuando lo tengas)_
+🔗 **Ver el blog:** _https://github.com/coradrax3000-boop/index.html.git_
 
 ## 🎓 Datos del proyecto
 
